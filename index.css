@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wght@0,200..900;1,200..900&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Satisfy&family=Shadows+Into+Light&family=Special+Gothic+Expanded+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wght@0,200..900;1,200..900&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Satisfy&family=Shadows+Into+Light&family=Special+Gothic+Expanded+One&display=swap');
+@import "tailwindcss";
+@theme {
+  --font-saisfy:  "Satisfy", cursive;
+  --font-mulish:"Mulish", sans-serif;
+  --color-deepblue:#02042a;
+  --color-lightblue:#2b84ea;
+  --color-lightblue300:#4b94ed;
+  --color-lightblue500:#0b72e7;
+  --color-greenlight:#61cea6;
+  --color-greytext:#818597;
+  --color-lightgrey:#e2e2e2;
+  --color-greyblue:#344a6c;
+  --color-deepbluehead:#162f56;
+  --color-gray2:#525a76;
+  --breakpoint-3xl: 120rem;
+  --color-avocado-100: oklch(0.99 0 0);
+  --color-avocado-200: oklch(0.98 0.04 113.22);
+  --color-avocado-300: oklch(0.94 0.11 115.03);
+  --color-avocado-400: oklch(0.92 0.19 114.08);
+  --color-avocado-500: oklch(0.84 0.18 117.33);
+  --color-avocado-600: oklch(0.53 0.12 118.34);
+  --ease-fluid: cubic-bezier(0.3, 0, 0, 1);
+  --ease-snappy: cubic-bezier(0.2, 0, 0, 1);
+  /* ... */
+}
